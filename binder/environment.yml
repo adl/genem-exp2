@@ -5,7 +5,7 @@ channels:
   - defaults
   - bfurneaux
 dependencies:
-  - spot=2.7.4.dev.55
+  - spot=2.8.7.dev.108
   - graphviz
   - r-irkernel
   - r-ggplot2

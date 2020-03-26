@@ -1,7 +1,7 @@
 Application 2: Probabilistic Model Checking
 -------------------------------------------
 
-This directory contains artifacts for the benchmark of application 2 (probabilistic model checking) in our ATVA'19 submission titled *Generic Emptiness Check for Fun and Profit*.
+This directory contains artifacts for the benchmark of application 2 (probabilistic model checking) in our FIXME submission titled *FIXME*.
 
 This benchmark was run with an extension of PRISM version 4.4. A tarball of this version is given below. The benchmarks were run with the explicit engine of PRISM on a computer with two Intel E5-2680 8-core CPUs at 2.70GHz with 384GB of RAM running Linux and a time-out of 30 min and 10GB memory limit.
 
