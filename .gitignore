@@ -1,1 +1,5 @@
 *~
+/bench-app1/*.tex
+/bench-app1/pos
+/bench-app1/neg
+/bench-app1/.ipynb_checkpoints/

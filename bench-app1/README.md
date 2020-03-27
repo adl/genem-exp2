@@ -11,7 +11,7 @@ The following files are supplied:
 - [`b3.hoa.xz`](b3.hoa.xz): Automata for the `Rabin` dataset
 - [`b4.hoa.xz`](b4.hoa.xz): Automata for the `Streett` dataset
 - [`b5.hoa.xz`](b5.hoa.xz): Automata for the `parity-like` dataset
-- [`ltlcross-prods.hoa.xz`](ltlcross-prods.hoa.xz): Automata for the `ltlcross` dataset
+- [`ltlcross-prods.hoa.xz`](ltlcross-prods.hoa.xz): Automata for the `ltlcross` dataset ([read how this was generated](ltlcross-prods.md))
 - [`generic-is-empty.ipynb`](generic-is-empty.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](https://nbviewer.jupyter.org/github/adl/genem-exp/blob/master/bench-app1/generic-is-empty.ipynb): Jupyter notebook containing Python code for:
   - Python implementation of the `is_empty()` algorithm from the paper (called `is_empty1()` in the notebook)
   - Python implementation of the optimizations described in the *Application 1* section (called `is_empty2()` in the notebook)
